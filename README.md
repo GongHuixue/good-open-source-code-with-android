@@ -28,6 +28,7 @@
   名称                                                                 |               描述  
   -|                                                                  -|  
   [Fragmentation](https://github.com/YoKeyword/Fragmentation)          |A powerful library that manage Fragment for Android!
+  [ViewPagerIndicator](https://github.com/GongHuixue/ViewPagerIndicator)|Paging indicator widgets compatible with the ViewPager from the Android Support Library and ActionBarSherlock.
 * 2 图表  
 
   名称                                                                 |               描述  
@@ -45,6 +46,8 @@
   名称                                                                 |               描述  
   -|                                                                  -|  
   [AndroidUtils](https://github.com/Blizzard-liu/AndroidUtils)|介绍各种libary的使用
+  [android-utils](https://github.com/jingle1267/android-utils)|It contains most of the Android utility classes. 
+  [Utils-master](https://github.com/huangshuyuan/Utils-master)|开发工具类封装
 
 ## 优秀项目篇
   名称                                                                 |               描述  
