@@ -5,6 +5,7 @@
   -|                                                                  -|  
   [Android-ZBLibrary](https://github.com/TommyLemon/Android-ZBLibrary) | Android MVP快速开发框架，做国内 「Demo最全面」「注释最详细」「使用最简单」「代码最严谨」的Android开源UI框架。  
   [android-architecture](https://github.com/googlesamples/android-architecture)|来自google官方的关于MVP,MVC,MVVM,的sample demo
+  [AndroidArchitectureCollection](https://github.com/CameloeAnthony/AndroidArchitectureCollection)|安卓架构文章合集（a collection of android Architecture）,看过的，介绍android架构最全的文章集合
     
 ## 网络篇
 ## 图片篇
