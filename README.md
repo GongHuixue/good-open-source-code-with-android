@@ -13,6 +13,9 @@
   名称                                                                 |               描述  
   -|                                                                  -|  
   [PhotoView](https://github.com/chrisbanes/PhotoView)|Implementation of ImageView for Android that supports zooming, by various touch gestures.
+  [Android-Universal-Image-Loader](https://github.com/nostra13/Android-Universal-Image-Loader)|图片缓存，目前使用最广泛的图片缓存，支持主流图片缓存的绝大多数特性。
+  [Glide](https://github.com/bumptech/glide)|Glide 是一个 android 平台上的快速和高效的开源的多媒体资源管理库,提供 多媒体文件的压缩,内存和磁盘缓存, 资源池的接口。它可以最大性能地在 Android 设备上读取、解码、显示图片和视频。Glide 可以将远程的图片、视频、动画图片等缓存在设备本地便于提高用户浏览图片的流畅体验
+  [fresco](https://github.com/facebook/fresco)|一款强大的图片缓存工具，由 Facebook 开发
   
 ## 多媒体  
   名称                                                                 |               描述  
@@ -24,6 +27,7 @@
   名称                                                                 |               描述  
   -|                                                                  -|  
   [awesome-android-ui](https://github.com/wasabeef/awesome-android-ui)|A curated list of awesome Android UI/UX libraries[介绍各种UI控件的demo]
+  [开源库分类](https://blog.csdn.net/dpl12/article/details/78252974)|包括个性化控件，如listview，recycleriew,actionbar；图片缓存，网络处理，时间总线，版本兼容，安全，
   
 * 1 Fragment     
 
