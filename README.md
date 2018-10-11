@@ -18,7 +18,7 @@
   名称                                                                 |               描述  
   -|                                                                  -|  
   [MediaPlayer](https://github.com/QiMengChao/MediaPlayer)|仿QQ音乐播放器界面,实现简单本地的音频、视频播放.以及自己写的一款歌词控件
-  [MusicPlayer](MusicPlayer, 无广告，轻量级本地音乐播放器：自定义控件，左侧歌曲列表，中间是简洁的播放控件，在线匹配歌词，歌词自动转码播放。可上一首、下一首、单曲循环、顺序播放、随机播放，通知栏可控制播放状态。)
+  [MusicPlayer](https://github.com/caohaoping/MusicPlayer)|MusicPlayer, 无广告，轻量级本地音乐播放器：自定义控件，左侧歌曲列表，中间是简洁的播放控件，在线匹配歌词，歌词自动转码播放。可上一首、下一首、单曲循环、顺序播放、随机播放，通知栏可控制播放状态。
   
 ## UI
   名称                                                                 |               描述  
@@ -48,6 +48,7 @@
   名称                                                                 |               描述  
   -|                                                                  -|  
   [AndroidUtils](https://github.com/Blizzard-liu/AndroidUtils)|介绍各种libary的使用
+  [AndroidUtils](https://github.com/haoma2012/AndroidUtils)|与Activity,APP,Convert,crash,File,image, Log, network,location, time,toast
   [android-utils](https://github.com/jingle1267/android-utils)|It contains most of the Android utility classes. 
   [Utils-master](https://github.com/huangshuyuan/Utils-master)|开发工具类封装
 
