@@ -9,14 +9,45 @@
     
 ## 网络篇
 ## 图片篇
-## 多媒体
+  名称                                                                 |               描述  
+  -|                                                                  -|  
+  [PhotoView](https://github.com/chrisbanes/PhotoView)|Implementation of ImageView for Android that supports zooming, by various touch gestures.
+  
+## 多媒体  
+  名称                                                                 |               描述  
+  -|                                                                  -|  
+  [MediaPlayer](https://github.com/QiMengChao/MediaPlayer)|仿QQ音乐播放器界面,实现简单本地的音频、视频播放.以及自己写的一款歌词控件
+  
 ## UI
-### Fragment
-### 图表
-    1):smart table
-    https://github.com/huangyanbin/smartTable
-    2):
+  名称                                                                 |               描述  
+  -|                                                                  -|  
+  [awesome-android-ui](https://github.com/wasabeef/awesome-android-ui)|A curated list of awesome Android UI/UX libraries[介绍各种UI控件的demo]
+  
+* 1 Fragment     
+
+  名称                                                                 |               描述  
+  -|                                                                  -|  
+  [Fragmentation](https://github.com/YoKeyword/Fragmentation)          |A powerful library that manage Fragment for Android!
+* 2 图表  
+
+  名称                                                                 |               描述  
+  -|                                                                  -|  
+  [smartTable](https://github.com/huangyanbin/smartTable)          |一款android自动生成表格框架---An Android automatically generated table framework 
+  
+* 3 RecyclerView
+
+  名称                                                                 |               描述  
+  -|                                                                  -|  
+  [BaseRecyclerViewAdapterHelper](https://github.com/GongHuixue/BaseRecyclerViewAdapterHelper)|BRVAH:Powerful and flexible RecyclerAdapter
+  
+  
 ## Android Utils
-    1):utils
-    https://github.com/Blizzard-liu/AndroidUtils
+  名称                                                                 |               描述  
+  -|                                                                  -|  
+  [AndroidUtils](https://github.com/Blizzard-liu/AndroidUtils)|介绍各种libary的使用
+
 ## 优秀项目篇
+  名称                                                                 |               描述  
+  -|                                                                  -|  
+  [Android_100_TOP-Projects](https://github.com/dinpay0188/Android-open-source-project)|Android开源优秀项目源码集合。
+  
