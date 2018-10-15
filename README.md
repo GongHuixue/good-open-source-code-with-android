@@ -11,9 +11,9 @@
 ## 网络篇
   名称                                                                 |               描述  
   -|                                                                  -|  
-  [Volley](https://android.googlesource.com/platform/frameworks/volley)|Google 提供的网络通信库，使得网络请求更简单、更快速
-  [okhttp](https://github.com/square/okhttp)|square 开源的 http 工具类
-  [retrofit](https://github.com/square/retrofit)|RESTFUL API 设计
+  [Volley](https://android.googlesource.com/platform/frameworks/volley)|Google 提供的网络通信库，使得网络请求更简单、更快速;适合轻量级网络交互，网络请求频繁，传输数据量小的场景.只能异步，不能同步。
+  [okhttp](https://github.com/square/okhttp)|square 开源的 http 工具类，支持同步、异步请求；
+  [retrofit](https://github.com/square/retrofit)|RESTFUL API 设计，通过注解配置请求，包括请求方法、请求参数、请求头、返回值等，提供Rxjava支持
   
   主流网络请求开源库的对比（Android-Async-Http、Volley、OkHttp、Retrofit）(https://www.jianshu.com/p/050c6db5af5a)   
   ![](https://upload-images.jianshu.io/upload_images/944365-f48072d21b613aaf.png)   
