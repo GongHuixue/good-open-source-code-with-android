@@ -23,6 +23,8 @@
   * 1 OKHttp源码解析(http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2015/0326/2643.html)
   >Retrofit
   * 1 Retrofit2 完全解析 探索与okhttp之间的关系(https://blog.csdn.net/lmj623565791/article/details/51304204)
+  * 2 Retrofit2完全教程(https://www.jianshu.com/p/308f3c54abdd)
+  * 3 这是一份很详细的 Retrofit 2.0 使用教程(https://blog.csdn.net/carson_ho/article/details/73732076)
 ## 图片篇
   名称                                                                 |               描述  
   -|                                                                  -|  
