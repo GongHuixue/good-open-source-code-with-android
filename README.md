@@ -7,6 +7,7 @@
   [android-architecture](https://github.com/googlesamples/android-architecture)|来自google官方的关于MVP,MVC,MVVM,的sample demo
   [AndroidArchitectureCollection](https://github.com/CameloeAnthony/AndroidArchitectureCollection)|安卓架构文章合集（a collection of android Architecture）,看过的，介绍android架构最全的文章集合
   [Android](https://github.com/open-android/Android)|一个讲解koltin、android知识的集合，包含源码和视频.
+  * 1 Android MVP+Retrofit+RxJava实践小结(http://wuxiaolong.me/2016/06/12/mvpRetrofitRxjava/)
     
 ## 网络篇
   名称                                                                 |               描述  
