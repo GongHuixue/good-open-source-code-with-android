@@ -14,6 +14,15 @@
   [Volley](https://android.googlesource.com/platform/frameworks/volley)|Google 提供的网络通信库，使得网络请求更简单、更快速
   [okhttp](https://github.com/square/okhttp)|square 开源的 http 工具类
   [retrofit](https://github.com/square/retrofit)|RESTFUL API 设计
+  
+  主流网络请求开源库的对比（Android-Async-Http、Volley、OkHttp、Retrofit）(https://www.jianshu.com/p/050c6db5af5a)   
+  ![](https://upload-images.jianshu.io/upload_images/944365-f48072d21b613aaf.png)   
+  >Volley
+  * 1 来自郭霖大神的Volley教程(https://blog.csdn.net/RoseChan/article/details/51108105)
+  >OkHttp
+  * 1 OKHttp源码解析(http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2015/0326/2643.html)
+  >Retrofit
+  * 1 Retrofit2 完全解析 探索与okhttp之间的关系(https://blog.csdn.net/lmj623565791/article/details/51304204)
 ## 图片篇
   名称                                                                 |               描述  
   -|                                                                  -|  
