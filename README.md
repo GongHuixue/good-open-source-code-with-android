@@ -69,6 +69,7 @@ Android 图片加载库，包括，glide，Picasso，Univisial-Image-loader的�
   名称                                                                 |               描述  
   -|                                                                  -|  
   [smartTable](https://github.com/huangyanbin/smartTable)          |一款android自动生成表格框架---An Android automatically generated table framework 
+  [MPAndroidChart](https://github.com/PhilJay/MPAndroidChart)|Android图表控件MPAndroidChart的简单介绍(https://blog.csdn.net/ww897532167/article/details/77334345)
   
 * 3 RecyclerView
 
