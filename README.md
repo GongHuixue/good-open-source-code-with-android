@@ -90,4 +90,4 @@ Android 图片加载库，包括，glide，Picasso，Univisial-Image-loader的�
   名称                                                                 |               描述  
   -|                                                                  -|  
   [Android_100_TOP-Projects](https://github.com/dinpay0188/Android-open-source-project)|Android开源优秀项目源码集合。
-  
+  [android-open-project](https://github.com/Trinea/android-open-project)|Android 开源项目分类汇总。
