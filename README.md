@@ -85,6 +85,7 @@ Android 图片加载库，包括，glide，Picasso，Univisial-Image-loader的�
   [AndroidUtils](https://github.com/haoma2012/AndroidUtils)|与Activity,APP,Convert,crash,File,image, Log, network,location, time,toast
   [android-utils](https://github.com/jingle1267/android-utils)|It contains most of the Android utility classes. 
   [Utils-master](https://github.com/huangshuyuan/Utils-master)|开发工具类封装
+  [AndroidUtilCode](https://blankj.com/2016/07/31/android-utils-code/)|Android开发人员不得不收集的代码
 
 ## 优秀项目篇
   名称                                                                 |               描述  
